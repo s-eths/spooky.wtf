@@ -18,17 +18,8 @@
 
 ## 🛠️ Installation
 
-1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
-
-2. Navigate to the project directory:
-   cd your-repo-name
-
-3. Install dependencies:
-   npm install
-
-4. Run the project:
-   npm start
+1. Execute this loadstring on your executor.
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/s-eths/spooky.wtf/main/main.lua", true))();`
 
 ---
 
