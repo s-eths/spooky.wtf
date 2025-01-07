@@ -19,7 +19,8 @@
 ## 🛠️ Installation
 
 1. Execute this loadstring on your executor.
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/s-eths/spooky.wtf/main/main.lua", true))();```
+
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/s-eths/spooky.wtf/main/main.lua", true))();`
 
 ---
 
