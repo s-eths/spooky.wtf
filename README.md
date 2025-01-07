@@ -24,12 +24,6 @@
 
 ---
 
-## 💡 Usage
-
-Explain how to use the project. Add screenshots or examples if possible to help users understand the functionality.
-
----
-
 ## 🤝 Contributions
 
 Contributions are welcome! Please follow these steps to contribute:
@@ -50,6 +44,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙋‍♂️ Support
+## 🙋‍♂️ Support & Updates
 
-For any issues or questions, feel free to open an issue or contact me at your-email@example.com.
+https://discord.gg/BGbZq65gKY
