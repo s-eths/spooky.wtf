@@ -1,15 +1,13 @@
 # spooky.wtf
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 *a roblox script hub for those cash grab simulators (open source)*
 
 ---
 
-## 🚀 Features
+## 🚀 Supported Games
 
-- **Feature 1**: Brief description.
-- **Feature 2**: Brief description.
-- **Feature 3**: Brief description.
+- [Horse Race](https://www.roblox.com/games/93787311916283/Horse-Race-New-Mount-Partner)
 
 ---
 
