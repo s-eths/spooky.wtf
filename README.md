@@ -13,7 +13,7 @@
 ## 🚀 Supported Games
 
 - [Horse Race](https://www.roblox.com/games/93787311916283/Horse-Race-New-Mount-Partner) 
-<span style="color:green">[Currently Up to Date.]</span>
+<h1 style="color:green;">Your Green Heading</h1>
 
 ---
 
