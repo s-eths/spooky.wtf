@@ -1,6 +1,6 @@
 # spooky.wtf
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)!
 *a roblox script hub for those cash grab simulators (open source)*
 
 ---
