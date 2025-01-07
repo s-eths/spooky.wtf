@@ -1,8 +1,10 @@
+![86e4ce801692c0893379aee5e5c7ffd9](https://github.com/user-attachments/assets/27b7cd4d-1c23-4711-b7ec-4158f6a8574f)
+
 # spooky.wtf
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-*a roblox script hub for those cash grab simulators (open source)*
+*a open source roblox script hub for those cash grab simulators.*
 
 ---
 
