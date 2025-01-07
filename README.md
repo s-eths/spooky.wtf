@@ -26,7 +26,7 @@
 
 ## 🤝 Contributors
 
-[@shattedlol](https://github.com/jaydnepic) - Moral Support (he sucks at coding luau)
+[@shattedlol](shatted.lol) - Moral Support (he sucks at coding luau)
 
 ---
 
