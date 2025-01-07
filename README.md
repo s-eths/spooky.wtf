@@ -26,7 +26,7 @@
 
 ## 🤝 Contributors
 
-[@shattedlol](shatted.lol) - Moral Support (he sucks at coding luau)
+[@shattedlol](https://shatted.lol/) - Moral Support (he sucks at coding luau)
 
 ---
 
