@@ -1,7 +1,7 @@
-# Project Name
+# spooky.wtf
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  
-*Your tagline or a short description about the project.*
+*a roblox script hub for those cash grab simulators (open source)*
 
 ---
 
