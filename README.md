@@ -39,3 +39,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋‍♂️ Support & Updates
 
 https://discord.gg/BGbZq65gKY
+
+---
+
+## 😎 Created By
+
+[@s.eths](https://github.com/s-eths)
