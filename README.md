@@ -6,13 +6,13 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-*a open source roblox script hub for those cash grab simulators.*
+*a open source roblox script hub for simulators.*
 
 ---
 
 ## 🚀 Supported Games
 
-- [Horse Race](https://www.roblox.com/games/93787311916283/Horse-Race-New-Mount-Partner) ; [Currently Up2Date]
+- [Horse Race](https://www.roblox.com/games/93787311916283/Horse-Race-New-Mount-Partner) ; [Updated]
 
 ---
 
