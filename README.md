@@ -12,7 +12,7 @@
 
 ## 🚀 Supported Games
 
-- [Horse Race](https://www.roblox.com/games/93787311916283/Horse-Race-New-Mount-Partner) ; [Updated]
+- [Horse Race](https://www.roblox.com/games/93787311916283/Horse-Race-New-Mount-Partner) - [Updated]
 
 ---
 
