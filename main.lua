@@ -7,10 +7,15 @@ getgenv().__LOADED = true;
 
 for i, v in next, getconnections(game:GetService("Players").LocalPlayer.Idled) do
     v:Disable();
- end;
+end;
 
-if game.PlaceId == 93787311916283 then -- Horse Race
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/s-eths/spooky.wtf/main/games/HorseRace.lua", true))();
+local GamesIndex = {
+    [93787311916283] = "HorseRace.lua";
+    [4893679160] = "BigBrainSimulator.lua";
+};
+
+if GamesIndex[game.PlaceId] then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/s-eths/spooky.wtf/main/games/" .. GamesIndex[game.PlaceId], true))();
 else
-    print("❌ | ERROR: Game is currently not supported.");
+    game:GetService("Players").LocalPlayer:Kick("❌ | ERROR: Game is currently not supported.");
 end;
