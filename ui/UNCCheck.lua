@@ -1,8 +1,6 @@
--- credits: https://github.com/unified-naming-convention/NamingStandard/blob/main/UNCCheckEnv.lua
--- a edited version of it to support spooky.wtf
-
 local Passes, Fails, Undefined = 0, 0, 0;
 local Running = 0;
+getgenv().Result = nil;
 
 local function GetGlobal(Path)
 	local Value = getfenv(0);
@@ -51,9 +49,9 @@ task.defer(function()
 	repeat task.wait() until Running == 0;
 
     if Passes == 5 then
-        return true;
+        Result = true;
     else
-        return false;
+        Result = false;
     end;
 end)
 
