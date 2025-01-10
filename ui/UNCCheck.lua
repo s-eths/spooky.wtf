@@ -51,9 +51,9 @@ task.defer(function()
 	repeat task.wait() until Running == 0;
 
     if Passes == 5 then
-        return True;
+        return true;
     else
-        return False;
+        return false;
     end;
 end)
 
