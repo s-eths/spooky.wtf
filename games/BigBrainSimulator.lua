@@ -1,8 +1,10 @@
 -- spooky.wtf | made by @s.eths
 
--- Variables
+-- Services
 local Workspace                = game:GetService("Workspace");
 local ReplicatedStorage        = game:GetService("ReplicatedStorage");
+
+-- Variables
 local LocalPlayer              = game:GetService("Players").LocalPlayer;
 local HumanoidRootPart         = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart;
 
@@ -83,11 +85,11 @@ Toggles.AutoBuyBooksToggle:OnChanged(function()
     task.spawn(function()
         while Toggles.AutoBuyBooksToggle.Value do
             task.wait();
-            for i, v in next, game:GetService("ReplicatedStorage").Books:GetChildren() do
+            for i, v in next, ReplicatedStorage.Books:GetChildren() do
                 if v:GetAttribute("Number") == IndexNumber then
-                    game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("BuyBook"):FireServer(v.Name);
+                    ReplicatedStorage:WaitForChild("Remotes"):WaitForChild("BuyBook"):FireServer(v.Name);
                     task.wait();
-                    game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("EquipBook"):FireServer(v.Name);
+                    ReplicatedStorage:WaitForChild("Remotes"):WaitForChild("EquipBook"):FireServer(v.Name);
                     task.wait(0.5);
                 end;
             end;
