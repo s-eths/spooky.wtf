@@ -38,12 +38,6 @@ https://discord.gg/BGbZq65gKY
 
 ---
 
-## 🤝 Contributors
-
-[@shattedlol](https://shatted.lol/) - Moral Support (he sucks at coding luau)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
