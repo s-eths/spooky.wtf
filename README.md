@@ -13,8 +13,9 @@
 ## 🚀 Supported Games
 
 - [Big Brain Simulator](https://www.roblox.com/games/4893679160/Big-Brain-Simulator) - [Updated]
-- [Get Fat And Roll Race](https://www.roblox.com/games/14494334042/Get-Fat-And-Roll-Race) - [In Progress]
 - [Horse Race](https://www.roblox.com/games/93787311916283/Horse-Race-New-Mount-Partner) - [Updated]
+
+- [Get Fat And Roll Race](https://www.roblox.com/games/14494334042/Get-Fat-And-Roll-Race) - [In Progress]
 
 ---
 
