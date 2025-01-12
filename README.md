@@ -42,7 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 https://spookywtf.cc/
 
---
+---
 
 ## 🙋‍♂️ Support & Updates
 
